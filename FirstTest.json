@@ -1,0 +1,7 @@
+[
+  {
+  "team":"IT",
+  "manager":"Han",
+  "member": ["eddie", "Tom", "John"]
+  }
+]
