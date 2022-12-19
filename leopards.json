@@ -2,11 +2,6 @@
   {
   "team":"Leopards",
   "manager":"Melisa",
-<<<<<<< HEAD
   "member": ["Linda", "William", "David", "Olivia"]
-=======
-  "coach": "Oscar",
-  "member": ["Linda", "William", "David"]
->>>>>>> add-coach
   }
 ]
