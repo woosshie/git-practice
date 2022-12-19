@@ -1,8 +1,13 @@
 [
   {
   "team":"Tigers",
+<<<<<<< HEAD
   "manager":"Brenda",
   "coach": "Grace",
+=======
+  "manager":"Kinneth",
+  "coach": "Ruth",
+>>>>>>> to-merge
   "members" : ["Linda","William", "David", "George"]
   }
 ]
