@@ -2,6 +2,7 @@
   {
   "team":"Leopards",
   "manager":"Nora",
-  "member": ["Linda", "William", "David", "Olivia"]
+  "coach":"Melisa",
+  "member": ["Linda", "William", "David", "Olivia", "Evie"]
   }
 ]
